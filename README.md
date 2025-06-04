@@ -4,7 +4,7 @@ This is the official implementation of the paper [Context-Aware Iteration Policy
 
 ## Setup
 
-* Clone this repository and navigate to Eigen-Metabolism folder
+* Clone this repository and navigate to DFlow folder
 
 ```
 git clone https://github.com/Orange066/DFlow.git
@@ -14,8 +14,8 @@ cd DFlow
 * We use Anaconda to create enviroment.
 
 ```
-conda create -n ugsp python=3.9
-conda activate ugsp
+conda create -n dflow python=3.9
+conda activate dflow
 ```
 
 * Install Pytorch. 
